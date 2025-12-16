@@ -12,8 +12,15 @@
 
 ### 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=levidevv-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levidevv-hub&layout=compact&theme=dracula" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=levidevv-hub&show_icons=true&theme=dracula&hide_border=true"
+/>
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=levidevv-hub&layout=compact&theme=dracula&hide_border=true"
+/>
 
 ---
 
@@ -21,6 +28,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levidevv/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levidevv)
-[![DISCORD](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/640311691480924172)
+[![Discord](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/640311691480924172)
 
 </div>
